@@ -1,4 +1,4 @@
-## A TypeScript starter for Next.js
+### A TypeScript starter for Next.js
 
 - 📏 **ESLint** — Pluggable JavaScript linter
 - 💖 **Prettier** - Opinionated Code Formatter
